@@ -73,7 +73,9 @@ A curated list of amazingly awesome resources for cloud computing.
 ## Conferences
 - [Container Camp](https://container.camp/)
 - [Kubecon](https://kubecon.io/)
-- [dotScale](http://2015.dotscale.io/)
+- [dotScale](https://www.dotscale.io/)
+- [docker](https://2018.dockercon.com/)
+
 
 ## Other Awesome Lists
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
